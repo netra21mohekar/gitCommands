@@ -1,23 +1,23 @@
-   2  git init
-   3 ls
-   4 dir
-   5 ls -force
-   6 git status
-   7 git add hello.py
-   8 git status
-   9 git commit -m "first github"
-  10  git status
-  11 rm hello.py
-  12 restore hello.py
-  13 git restore hello.py
-   8 git remote add origin https://github.com/netra21mohekar/gitCommands... 
-   9 git remote -v
-  10 git remote set-url origin https://ghp_v7gsyls685LILtAEieZEPfT2m6CCJ... 
-  11 git remote -v
-  12 git push origin main
-  13 git remote set-url origin https://ghp_v7gsyls685LILtAEieZEPfT2m6CCJ... 
-  14 git push origin main
-  15 git branch
-  16 git push origin master
-  17 git config --global init.defaultBranch
-  18 git branch
+     git init
+    ls
+    dir
+    ls -force
+    git status
+    git add hello.py
+    git status
+    git commit -m "first github"
+   git status
+   rm hello.py
+   restore hello.py
+   git restore hello.py
+    git remote add origin https://github.com/netra21mohekar/gitCommands... 
+    git remote -v
+   git remote set-url origin https://ghp_v7gsyls685LILtAEieZEPfT2m6CCJ... 
+   git remote -v
+   git push origin main
+   git remote set-url origin https://ghp_v7gsyls685LILtAEieZEPfT2m6CCJ... 
+   git push origin main
+   git branch
+   git push origin master
+   git config --global init.defaultBranch
+   git branch
