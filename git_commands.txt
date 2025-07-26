@@ -1,0 +1,12 @@
+   2  git init
+   3 ls
+   4 dir
+   5 ls -force
+   6 git status
+   7 git add hello.py
+   8 git status
+   9 git commit -m "first github"
+  10  git status
+  11 rm hello.py
+  12 restore hello.py
+  13 git restore hello.py
